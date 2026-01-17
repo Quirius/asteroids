@@ -1,6 +1,6 @@
 import sys
 import pygame
-from constants import SCREEN_HEIGHT, SCREEN_WIDTH
+from constants import *
 from logger import log_state, log_event
 from player import Player
 from asteroid import Asteroid
